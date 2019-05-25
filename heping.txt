@@ -1,6 +1,17 @@
-127.0.0.1       localhost
-::1             ip6-localhost
+# Copyright (c) 2017-2019, googlehosts members.
+# https://github.com/googlehosts/hosts
+# Last updated: 2019-04-28
 
+# This work is licensed under a modified HOSTS License.
+# https://github.com/googlehosts/hosts/raw/master/LICENSE
+
+# Modified Hosts Start
+
+# Localhost (DO NOT REMOVE) Start
+127.0.0.1	localhost
+# Localhost (DO NOT REMOVE) End
+
+# GoogleHosts Start
 216.58.221.238 dlied1.qq.com
 216.58.221.238 dlied2.qq.com
 216.58.221.238 dlied3.qq.com
